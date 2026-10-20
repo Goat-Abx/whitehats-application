@@ -1,14 +1,14 @@
-#WhiteHats Application
+# WhiteHats Application
 
-1. About Me
+## 1. About Me
 
 Name: Abi Anish
 
-2. Why I Want to Join WhiteHats
+## 2. Why I Want to Join WhiteHats
 
 I want to join WhiteHats to develop my cybersecurity skills, learn about ethical hacking, and understand how to identify and prevent security vulnerabilities. I am eager to learn through practical challenges, collaborate with other learners, and contribute to building a safer digital environment.
 
-3. Recent Cybersecurity Incident
+## 3. Recent Cybersecurity Incident
 
 Incident: Microsoft SharePoint Cyberattacks (July 2025)
 
